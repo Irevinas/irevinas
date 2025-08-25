@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="522.21mm" height="119.39mm" version="1.1" viewBox="0 0 435.18 99.495" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(117.21 -43.127)">
+<path d="m-117.21 43.127h435.18v99.495h-435.18z" fill="#687dac" stop-color="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".67065"/>
+<g transform="matrix(.79569 0 0 .79569 -808.18 -1121.5)">
+<g transform="translate(0 -12.824)" font-family="sans-serif">
+<text x="1097.7428" y="1543.3429" fill="#ffffff" font-size="44.036px" stroke-width="1.1009" style="line-height:1.25" xml:space="preserve"><tspan x="1097.7428" y="1543.3429" fill="#ffffff" font-family="Poppins" font-weight="bold" stroke-width="1.1009" text-align="end" text-anchor="end">IREVINAS</tspan></text>
+<text x="896.05957" y="1562.2086" fill="#ffeca9" font-size="14.433px" stroke-width=".36083" style="line-height:1.25" xml:space="preserve"><tspan x="896.05957" y="1562.2086" fill="#ffeca9" font-family="'Futura LT'" stroke-width=".36083">Full Stack Web Developer</tspan></text>
+</g>
+<g transform="translate(0 -4.0959)" fill="#ddfbfe">
+<text x="1213.5115" y="1552.6223" font-family="sans-serif" font-size="10.74px" stroke-width=".2685" style="line-height:1.25" xml:space="preserve"><tspan x="1213.5115" y="1552.6223" fill="#ddfbfe" font-family="'Futura LT'" stroke-width=".2685">Laravel | Next.js | React | GraphQL</tspan></text>
+<text x="1387.7029" y="1516.1332" font-family="Poppins" font-size="14.917px" stroke-width=".37294" text-anchor="end" style="line-height:1.25" xml:space="preserve"><tspan x="1387.7029" y="1516.1332" text-align="end"><tspan fill="#ffffff" stroke-width=".37294">From a <tspan fill="#ddfbfe" font-family="Poppins" font-weight="600" stroke-width=".37294">stable</tspan> backend</tspan></tspan><tspan x="1387.7029" y="1535.3" text-align="end"><tspan fill="#ffffff">to a <tspan fill="#ddfbfe" font-family="Poppins" font-weight="600" stroke-width=".37294">usable</tspan> frontend</tspan><tspan fill="#ddfbfe" font-family="Poppins" font-weight="600"/></tspan></text>
+</g>
+</g>
+</g>
+</svg>
